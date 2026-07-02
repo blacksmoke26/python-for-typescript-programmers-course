@@ -1,4 +1,4 @@
-# Module 26 — Python Glossary (Tutorial Reference)
+# Module 28 — Python Glossary (Tutorial Reference)
 
 > **Source:** Based on [Python Tutorial Glossary](https://docs.python.org/3/glossary.html) (Python 3.14.6).  
 > This glossary captures the essential terms from the Python tutorial, organized for quick reference. Each entry maps back to where the term first appears in the tutorial.
@@ -157,7 +157,8 @@ helper = staticmethod(helper)
 ```
 
 > **Tutorial link:** Chapter 9 — Classes  
-> **TS equivalent:** `@decorator` decorator (very similar!)
+> **TS equivalent:** `@decorator` decorator (very similar!)  
+> **Deep dive:** See [Module 27 — Decorators: Complete Guide](./27-decorators-complete-guide.md) for an exhaustive treatment covering Beginner → Intermediate → Advanced levels with Mermaid diagrams, 26 exercises, quizzes, and TypeScript comparisons.
 
 ### descriptor
 
