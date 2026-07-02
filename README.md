@@ -86,7 +86,7 @@ This course is designed for TypeScript developers who want to **read, write, and
 | 17 | [Keywords Deep Dive](./18-keywords-deep-dive.md) | All 35 Python keywords vs 70+ TypeScript keywords — complete mapping table, Python-only, TS-only, similar-but-different pairs, quizzes. |
 | 18 | [Regex In-Depth](./19-regex-in-depth.md) | Every metacharacter, all re/RegExp methods, feature comparison matrix, pattern recipes, lookarounds/recursion, performance pitfalls, quizzes. |
 | 24 | [Master Cheat Sheet](./24-master-cheat-sheet.md) | The complete TS → Python reference: 30+ tables + 10+ Mermaid diagrams — keywords, types, data structures, concurrency, testing, web, stdlib, memory models. (Previously Module 20 in the v1 course.) |
-| 26 | [Python Glossary](./26-glossary.md) | Complete tutorial glossary: 60+ terms from the official Python docs, each with TS/JS equivalents, code examples, and tutorial chapter links. |
+| 28 | [Python Glossary](./28-glossary.md) | Complete tutorial glossary: 60+ terms from the official Python docs, each with TS/JS equivalents, code examples, and tutorial chapter links. |
 
 ### Part VI — Topic Deep Dives
 
@@ -96,6 +96,7 @@ This course is designed for TypeScript developers who want to **read, write, and
 | 21 | [File Handling Deep Dive](./21-file-handling-deep-dive.md) | open() modes, pathlib modern API (replaces os.path), CSV/JSON modules, binary I/O, temp files, Node.js fs ↔ Python mapping. |
 | 22 | [Error Handling & Debugging](./22-error-handling-debugging.md) | Full exception hierarchy, custom exceptions with attributes, pdb commands, structured logging, retry/backoff patterns, TS comparison. |
 | 23 | [Node.js vs Python Modules](./23-nodejs-vs-python-modules.md) | Every Node.js built-in module mapped to Python, decision frameworks, pip alternatives, migration patterns, GIL implications for concurrency modules. |
+| 27 | [Decorators: Complete Guide (Beginner → Intermediate → Advanced)](./27-decorators-complete-guide.md) | Everything about Python decorators: function/class/parameterized/async decorators, `*args`/`**kwargs` universal pattern, `functools.wraps`, built-in decorators (`@property`/`@classmethod`), real-world patterns (timer, retry, auth, cache, singleton, rate-limiter, middleware), metaprogramming, ParamSpec type safety, Mermaid diagrams, quizzes, 26 exercises. |
 
 ---
 
@@ -112,7 +113,7 @@ This course is a comprehensive guide for **TypeScript developers** who want to l
 
 ### Where to Start
 
-Begin with [Module 00 — Setup & Tooling](./00-introduction.md) to get your environment configured (Python installation, PyCharm, virtual environments, type checking). Then proceed to [Chapter 01 — Fundamentals](./01-fundamentals.md) for the core mental model shifts. Use [Module 26 — Glossary](./26-glossary.md) as a quick reference for Python terms with TypeScript equivalents.
+Begin with [Module 00 — Setup & Tooling](./00-introduction.md) to get your environment configured (Python installation, PyCharm, virtual environments, type checking). Then proceed to [Chapter 01 — Fundamentals](./01-fundamentals.md) for the core mental model shifts. Use [Module 28 — Glossary](./26-glossary.md) as a quick reference for Python terms with TypeScript equivalents.
 
 ---
 
