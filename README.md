@@ -96,7 +96,7 @@ This course is designed for TypeScript developers who want to **read, write, and
 | 21 | [File Handling Deep Dive](./21-file-handling-deep-dive.md) | open() modes, pathlib modern API (replaces os.path), CSV/JSON modules, binary I/O, temp files, Node.js fs ↔ Python mapping. |
 | 22 | [Error Handling & Debugging](./22-error-handling-debugging.md) | Full exception hierarchy, custom exceptions with attributes, pdb commands, structured logging, retry/backoff patterns, TS comparison. |
 | 23 | [Node.js vs Python Modules](./23-nodejs-vs-python-modules.md) | Every Node.js built-in module mapped to Python, decision frameworks, pip alternatives, migration patterns, GIL implications for concurrency modules. |
-| 27 | [Decorators: Complete Guide (Beginner → Intermediate → Advanced)](./27-decorators-complete-guide.md) | Everything about Python decorators: function/class/parameterized/async decorators, `*args`/`**kwargs` universal pattern, `functools.wraps`, built-in decorators (`@property`/`@classmethod`), real-world patterns (timer, retry, auth, cache, singleton, rate-limiter, middleware), metaprogramming, ParamSpec type safety, Mermaid diagrams, quizzes, 26 exercises. |
+| 27 | [Decorators)](./27-decorators-complete-guide.md) | Everything about Python decorators: function/class/parameterized/async decorators, `*args`/`**kwargs` universal pattern, `functools.wraps`, built-in decorators (`@property`/`@classmethod`), real-world patterns (timer, retry, auth, cache, singleton, rate-limiter, middleware), metaprogramming, ParamSpec type safety, Mermaid diagrams, quizzes, 26 exercises. |
 
 ---
 
