@@ -137,6 +137,14 @@ The canonical implementation of the Python programming language, as distributed 
 
 > **Tutorial link:** Throughout
 
+### collections.abc
+
+A standard library module defining Abstract Base Classes (ABCs) that represent the protocol interface for all collection types. Each ABC specifies required methods; any type implementing those methods is considered a "virtual subclass." Unlike TypeScript interfaces which vanish at compile time, Python ABCs are checked at runtime via `isinstance()` and statically via `mypy`. Key ABCs: `Iterable`, `Iterator`, `Sequence`, `Mapping`, `Set`, `Callable`, `Generator`, `AsyncIterable`, `AsyncIterator`, `Collection`, `MutableSequence`, `MutableMapping`, `MutableSet`, `Reversible`, `ByteString`, `ItemsView`, `ValuesView`, `KeysView`.
+
+> **Tutorial link:** Module 29 — collections.abc Deep Dive
+> **Deep dive:** [Module 29 — collections.abc: Abstract Base Classes for Every Container](./29-collections-abc.md)
+> **TypeScript comparison:** Runtime equivalent of TypeScript's structural typing (interfaces), but checked at runtime via `isinstance()` as well as statically via mypy.
+
 ---
 
 ## D — F

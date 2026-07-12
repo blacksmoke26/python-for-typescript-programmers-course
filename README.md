@@ -87,6 +87,7 @@ This course is designed for TypeScript developers who want to **read, write, and
 | 18 | [Regex In-Depth](./19-regex-in-depth.md) | Every metacharacter, all re/RegExp methods, feature comparison matrix, pattern recipes, lookarounds/recursion, performance pitfalls, quizzes. |
 | 24 | [Master Cheat Sheet](./24-master-cheat-sheet.md) | The complete TS → Python reference: 30+ tables + 10+ Mermaid diagrams — keywords, types, data structures, concurrency, testing, web, stdlib, memory models. (Previously Module 20 in the v1 course.) |
 | 28 | [Python Glossary](./28-glossary.md) | Complete tutorial glossary: 60+ terms from the official Python docs, each with TS/JS equivalents, code examples, and tutorial chapter links. |
+| 29 | [collections.abc Deep Dive](./29-collections-abc.md) | Every ABC covered (Iterable, Iterator, Sequence, Mapping, Set, Callable, Generator, Async variants, etc.) — protocol hierarchy diagrams, real-world patterns (TTL cache, DI container, event bus, ORM builder), type hints for duck typing, 7 exercises with solutions. |
 
 ### Part VI — Topic Deep Dives
 
